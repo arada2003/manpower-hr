@@ -21,7 +21,7 @@
 - **อื่น ๆ:** Docker
 
 ## 🚀 วิธีติดตั้งและใช้งาน
-- ทำการ Get ... ก่อน จาก
+- ทำการ Get manpower_database ก่อน จาก [Database Manpower](https://github.com/arada2003/manpower_database)
 - Run Folder ด้วย Docker ใช้คำสั่ง
 ```bash
 docker-compose build
