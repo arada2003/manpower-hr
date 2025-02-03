@@ -26,7 +26,7 @@
 ```bash
 docker-compose build
 ```
-- จากนั้นทำการ Get ... จาก
+- จากนั้นทำการ Get manpower_frontend จาก [Manpower React](https://github.com/arada2003/manpower_frontend)
 ```bash
 # ติดตั้ง dependencies
 npm install
