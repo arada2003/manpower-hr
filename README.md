@@ -34,5 +34,5 @@ npm install
 # รันเซิร์ฟเวอร์
 npm run serve
 ```
-จะเปิด localhost:8001 สำหรับ fastApi
-จะเปิด localhost:8080 สำหรับ react
+- จะเปิด localhost:8001 สำหรับ fastApi
+- จะเปิด localhost:8080 สำหรับ react
